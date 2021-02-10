@@ -1,4 +1,4 @@
-# Predictive-Analytics
+# Predictive Analytics
 
 This course teaches students to use advanced machine learning techniques that are focused on predictive outcomes. 
 Topics will include time series analysis and forecasting, recommender systems, and advanced regression techniques. 
